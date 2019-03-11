@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\siban\source\repos\cis108_lab6\exercise2\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\siban\source\repos\cis108_lab6\exercise2\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  Exercise2.vcxproj -> C:\Users\siban\source\repos\CIS108_Lab6\Exercise2\Debug\Exercise2.exe
